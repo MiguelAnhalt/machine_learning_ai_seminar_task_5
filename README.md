@@ -1,4 +1,4 @@
-# Heart Disease Prediction using Multi-Layer Perceptron (MLP)
+# Task 5 MLP
 
 This project implements a Multi-Layer Perceptron (MLP) neural network from scratch to predict heart disease using the Cleveland Heart Disease dataset.
 
